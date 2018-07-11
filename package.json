@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "\"Simple Node Server\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurpaAnindita/Simple-Node-Server.git"
+  },
+  "author": "AurpaAnindita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurpaAnindita/Simple-Node-Server/issues"
+  },
+  "homepage": "https://github.com/AurpaAnindita/Simple-Node-Server#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.0"
+  }
+}
