@@ -19,5 +19,8 @@
   "homepage": "https://github.com/AurpaAnindita/Simple-Node-Server#readme",
   "devDependencies": {
     "nodemon": "^1.18.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
   }
 }
